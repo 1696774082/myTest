@@ -7,9 +7,5 @@ void main(){
     int bcaa;
     //sfflkgsl;gper
 
-}\ukhgkj;gfdkh;lfgh
-void i(){
 
-printf('j');
-//this is new
 }
