@@ -12,4 +12,5 @@ void main(){
 }
 void i(){
 
+printf('j');
 }
