@@ -7,13 +7,7 @@ void main(){
     int bcaa;
     //sfflkgsl;gper
     //sdf
-    //sujhbuuju4546666问问
-    //okfdsfsdfs
-    //251321df  
-    //sujhbuuju
-    //fsbs4sbsbs
-
-    //
+  
 }
 void i(){
 
